@@ -1,8 +1,8 @@
 {
   "name": "@erhanbicer/react-native-checkbox-group",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "React native checkbox group component",
-  "main": "checkboxGroup.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
